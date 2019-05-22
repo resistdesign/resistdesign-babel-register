@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/resistdesign/resistdesign-babel-register#readme",
   "dependencies": {
-    "babel-register": "^6.24.1",
+    "@babel/core": "^7.4.5",
+    "@babel/register": "^7.4.4",
     "resistdesign-babel-config": "^3.0.2"
   }
 }

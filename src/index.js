@@ -1,1 +1,1 @@
-require('babel-register')(require('resistdesign-babel-config'));
+require('@babel/register')(require('resistdesign-babel-config'));
