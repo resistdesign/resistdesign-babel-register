@@ -19,6 +19,6 @@
   "dependencies": {
     "@babel/core": "^7.4.5",
     "@babel/register": "^7.4.4",
-    "resistdesign-babel-config": "^3.0.2"
+    "resistdesign-babel-config": "^3.1.0"
   }
 }
